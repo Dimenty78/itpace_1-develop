@@ -57,7 +57,7 @@ public class SummaryServiceImpl implements SummaryService {
                     "                <dl class=\"dl-horizontal\">\n" +
                     "                    <dt>ФИО:</dt><dd>" + personalData.getFIO() + "</dd>\n" +
                     "                    <dt>Дата рождения:</dt><dd>" + personalData.getDOB() + "</dd>\n" +
-                    "                    <dt>Телефон:</dt><dd>" + personalData.getPhone() + "/dd>\n" +
+                    "                    <dt>Телефон:</dt><dd>" + personalData.getPhone() + "</dd>\n" +
                     "                    <dt>e-mail:</dt><dd>" + personalData.getEmail() + "</dd>\n" +
                     "                    <dt>Skype:</dt><dd>" + personalData.getSkype() + "</dd>\n" +
                     "                </dl></div>\n" +
